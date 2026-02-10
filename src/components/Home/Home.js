@@ -29,7 +29,7 @@ function Home() {
               </h1>
 
               <h1 className="heading-name">
-                나는
+                저는
                 <strong className="main-name"> 루스탐</strong>
               </h1>
 
