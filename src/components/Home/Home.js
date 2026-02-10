@@ -54,9 +54,9 @@ function Home() {
       <Container>
         <Row style={{ paddingTop: "50px", paddingBottom: "80px" }}>
           <Col md={12} className="home-about-social">
-            <h1>Find Me On</h1>
+            <h1>저를 찾아보세요</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              편하게 <span className="purple">연락 주세요</span>
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">

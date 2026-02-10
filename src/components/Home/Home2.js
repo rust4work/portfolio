@@ -33,7 +33,7 @@ function Home2() {
               <b className="purple"> Next.js </b> 그리고 다음과 같은 현대적인
               프레임워크{" "}
               <i>
-                <b className="purple">React.js</b> and{" "}
+                <b className="purple">React.js</b> 과{" "}
                 <b className="purple">Next.js</b>.
               </i>
             </p>
