@@ -39,7 +39,17 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <img src={logo} className="img-fluid logo" alt="brand" />
+          <div className="img-fluid logo">
+            <h1
+              style={{
+                color: "purple",
+                fontSize: "25px",
+                marginTop: "7px",
+              }}
+            >
+              <b>루</b>
+            </h1>
+          </div>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"

@@ -10,37 +10,28 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              <span className="purple"> 나에 대해 </span>
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              저는 아이디어를 안정적이고 확장 가능한 제품으로 구현하는 것을
+              좋아하는 소프트웨어 엔지니어입니다. 오랜 시간 동안 다양한 기술을
+              탐구해 왔으며, 고성능 시스템과 직관적인 사용자 경험을 구축하는 데
+              열정을 쏟고 있습니다.
               <br />
               <br />
-              I’m proficient in
+              저는 주로
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  JavaScript, TypeScript, React.js, Next.js, 및 API{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              와 같은 기술 스택을 사용하여 웹 애플리케이션을 개발합니다.
               <br />
               <br />
-              My key areas of interest include developing
-              <i>
-                <b className="purple">
-                  {" "}
-                  Web Applications, Blockchain Solutions,{" "}
-                </b>
-              </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
-              <br />
-              <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
+              가능할 때마다 저는 함께 프로젝트를 진행하는 것을 좋아합니다.
+              <b className="purple"> Next.js </b> 그리고 다음과 같은 현대적인
+              프레임워크{" "}
               <i>
                 <b className="purple">React.js</b> and{" "}
                 <b className="purple">Next.js</b>.
