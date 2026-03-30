@@ -11,7 +11,7 @@ function AboutCard() {
             안녕하세요 여러분! 저는{" "}
             <span className="purple">우즈베키스탄 타슈켄트 </span>출신의
             <span className="purple">루스탐입니다.</span> <br />
-            현재 <span className="purple">(주)유타운에서</span>{" "}
+            현재 <span className="purple">(주)엠유소프트</span>{" "}
             <span className="purple">프론트엔드 개발자로</span>. 일하고
             있습니다.
             <br />
